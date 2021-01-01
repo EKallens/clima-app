@@ -4,4 +4,4 @@ App que te permite buscar el clima de ciudades de algunos países. Consume la AP
 
 ## DEMO:
 
-[Clima APP](https://clima-appbkp.netlify.app/){:target="_blank"}
+[Clima APP](https://clima-appbkp.netlify.app/?target=_blank)
